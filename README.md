@@ -12,3 +12,6 @@
 ---
 ## Ошибка
 <img src="https://github.com/Vova2808/Kaggle_Cars_Clus_Catboost/assets/96084748/a1730581-2711-4688-af33-80afd12bd802">
+
+
+### Спасибо, что заглянули 📋
